@@ -1,0 +1,46 @@
+{
+    "header": {
+      "helpCenter": "Kituo cha Usaidizi",
+      "orderTracking": "Kufuatilia Maagizo",
+      "language": "Lugha",
+      "currency": "Sarafu"
+    },
+    "languages": {
+      "en": "Kiingereza",
+      "sw": "Kiswahili",
+      "lg": "Luganda"
+    },
+    "currencies": {
+      "USD": "Dola ya Marekani ($)",
+      "UGX": "Shilingi ya Uganda (USh)",
+      "EUR": "Yuro (€)",
+      "GBP": "Pauni ya Uingereza (£)",
+      "KES": "Shilingi ya Kenya (KSh)"
+    },
+    "navbar": {
+      "home": "Nyumbani",
+      "shop": "Duka",
+      "categories": "Kategoria",
+      "contact": "Mawasiliano",
+      "login": "Ingia",
+      "signup": "Jisajili",
+      "profile": "Wasifu",
+      "logout": "Toka",
+      "customer": "Mteja",
+      "supplier": "Msambazaji",
+      "cart": "Mkokoteni"
+    },
+    "auth": {
+      "welcome": "Karibu TatuEshop",
+      "loginPrompt": "Tafadhali ingia kuendelea",
+      "noAccount": "Huna akaunti?",
+      "haveAccount": "Tayari una akaunti?"
+    },
+    "products": {
+      "featured": "Bidhaa Maalum",
+      "newArrivals": "Bidhaa Mpya",
+      "addToCart": "Weka kwenye Mkokoteni",
+      "viewDetails": "Angalia Maelezo",
+      "price": "Bei"
+    }
+  }

@@ -1,0 +1,46 @@
+{
+    "header": {
+      "helpCenter": "Kituufu ky'Obuyambi",
+      "orderTracking": "Okulonda Ebiagizo",
+      "language": "Lulimi",
+      "currency": "Ssente"
+    },
+    "languages": {
+      "en": "Luzungu",
+      "sw": "Oluswahiri",
+      "lg": "Oluganda"
+    },
+    "currencies": {
+      "USD": "Doola ya Amerika ($)",
+      "UGX": "Silingi ya Uganda (USh)",
+      "EUR": "Yuro (€)",
+      "GBP": "Paundi ya Bungereza (£)",
+      "KES": "Silingi ya Kenya (KSh)"
+    },
+    "navbar": {
+      "home": "Awaka",
+      "shop": "Edduuka",
+      "categories": "Ebika",
+      "contact": "Okwegatta",
+      "login": "Wangula",
+      "signup": "Wandika",
+      "profile": "Ebifa ku ggwe",
+      "logout": "Fuluma",
+      "customer": "Omuguzi",
+      "supplier": "Omuwandiisi",
+      "cart": "Engatto"
+    },
+    "auth": {
+      "welcome": "Tusanyuse Okukulaba ku TatuEshop",
+      "loginPrompt": "Wangula okutuuka wano",
+      "noAccount": "Tolina akawunti?",
+      "haveAccount": "Olina akawunti?"
+    },
+    "products": {
+      "featured": "Ebintu Ebikulu",
+      "newArrivals": "Ebintu Ebipya",
+      "addToCart": "Gattika mu Ngaatto",
+      "viewDetails": "Labamu Ebisingawo",
+      "price": "Obudde"
+    }
+  }

@@ -1,0 +1,46 @@
+{
+    "header": {
+      "helpCenter": "Help Center",
+      "orderTracking": "Order Tracking",
+      "language": "Language",
+      "currency": "Currency"
+    },
+    "languages": {
+      "en": "English",
+      "sw": "Swahili",
+      "lg": "Luganda"
+    },
+    "currencies": {
+      "USD": "US Dollar ($)",
+      "UGX": "Ugandan Shilling (USh)",
+      "EUR": "Euro (€)",
+      "GBP": "British Pound (£)",
+      "KES": "Kenyan Shilling (KSh)"
+    },
+    "navbar": {
+      "home": "Home",
+      "shop": "Shop",
+      "categories": "Categories",
+      "contact": "Contact",
+      "login": "Login",
+      "signup": "Sign Up",
+      "profile": "Profile",
+      "logout": "Logout",
+      "customer": "Customer",
+      "supplier": "Supplier",
+      "cart": "Cart"
+    },
+    "auth": {
+      "welcome": "Welcome to TatuEshop",
+      "loginPrompt": "Please log in to continue",
+      "noAccount": "Don't have an account?",
+      "haveAccount": "Already have an account?"
+    },
+    "products": {
+      "featured": "Featured Products",
+      "newArrivals": "New Arrivals",
+      "addToCart": "Add to Cart",
+      "viewDetails": "View Details",
+      "price": "Price"
+    }
+  }
